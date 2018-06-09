@@ -18,6 +18,6 @@ Optionally a specific seed (java long value) can be supplied to start with a spe
 java -jar ./target/<>.jar --seed 12345
 ```
 
-To make a move, please enter the value of the Pile.
+To make a move, please enter the value of the Pile to move, and then press Enter.
 
 When game reaches a Winning condition it wil print a message and exit.
